@@ -7,16 +7,22 @@ import projectsData from './data/projects.json'
 <template>
   <Hero />
 
-  <section id="projects" class="py-16 px-4 max-w-5xl mx-auto">
-    <h2 class="text-2xl font-bold text-gray-900 mb-8 text-center">Projects</h2>
-    <ProjectGrid :projects="projectsData" />
+  <section id="projects" class="py-16 px-4 bg-gray-50">
+    <div class="max-w-5xl mx-auto">
+      <h2 class="text-2xl font-bold text-gray-900 mb-8 text-center">Projects</h2>
+      <ProjectGrid :projects="projectsData" />
+    </div>
+
   </section>
 
-  <section id="about" class="py-16 px-4 max-w-2xl mx-auto text-center">
-    <h2 class="text-2xl font-bold text-gray-900 mb-4">About</h2>
-    <p class="text-gray-600">
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus atque corrupti repellat minima.
-    </p>
+  <section id="about" class="py-16 px-4 bg-gray-50 text-center">
+    <div class="max-w-2xl mx-auto">
+      <h2 class="text-2xl font-bold text-gray-900 mb-4">About</h2>
+      <p class="text-gray-600">
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus atque corrupti repellat minima.
+      </p>
+    </div>
+
   </section>
 
   <footer class="py-8 text-center text-gray-500 text-sm">

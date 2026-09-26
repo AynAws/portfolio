@@ -5,7 +5,8 @@
     "tags": ["Vue", "Vite", "JavaScript"],
     "liveUrl": "https://aynaws.github.io/cosmere-reading-tracker/",
     "repoUrl": "https://github.com/AynAws/cosmere-reading-tracker",
-    "image": "/src/assets/cosmere-screenshot.png"
+    "image": "/src/assets/cosmere-screenshot.png",
+    "alt": ""
   },
   {
     "title": "Eberron Calendar",
@@ -13,7 +14,8 @@
     "tags": ["JavaScript"],
     "liveUrl": "https://aynaws.github.io/njit-grade-calculator/",
     "repoUrl": "https://github.com/AynAws/njit-grade-calculator",
-    "image": "/src/assets/calendar-screenshot.png"
+    "image": "/src/assets/calendar-screenshot.png",
+    "alt": ""
   },
   {
     "title": "Anime Higher/Lower",
@@ -21,6 +23,7 @@
     "tags": ["JavaScript", "API"],
     "liveUrl": "https://aynaws.github.io/anime-higher-lower/",
     "repoUrl": "https://github.com/AynAws/anime-higher-lower",
-    "image": "/src/assets/anime-screenshot.png"
+    "image": "/src/assets/anime-screenshot.png",
+    "alt": ""
   }
 ]
