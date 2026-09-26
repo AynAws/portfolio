@@ -5,15 +5,15 @@
     "tags": ["Vue", "Vite", "JavaScript"],
     "liveUrl": "https://aynaws.github.io/cosmere-reading-tracker/",
     "repoUrl": "https://github.com/AynAws/cosmere-reading-tracker",
-    "image": "/assets/cosmere-screenshot.png"
+    "image": "/src/assets/cosmere-screenshot.png"
   },
   {
-    "title": "Real-time fictional calendar",
-    "desc": "A personal grade tracker with term filtering, GPA calculation, and projected grade ranges.",
-    "tags": ["Vue", "Bootstrap", "JavaScript"],
+    "title": "Eberron Calendar",
+    "desc": "A real-time calendar based off of Eberron's fictional calendar.",
+    "tags": ["JavaScript"],
     "liveUrl": "https://aynaws.github.io/njit-grade-calculator/",
     "repoUrl": "https://github.com/AynAws/njit-grade-calculator",
-    "image": "/assets/grades-screenshot.png"
+    "image": "/src/assets/calendar-screenshot.png"
   },
   {
     "title": "Anime Higher/Lower",
@@ -21,6 +21,6 @@
     "tags": ["JavaScript", "API"],
     "liveUrl": "https://aynaws.github.io/anime-higher-lower/",
     "repoUrl": "https://github.com/AynAws/anime-higher-lower",
-    "image": "/assets/anime-screenshot.png"
+    "image": "/src/assets/anime-screenshot.png"
   }
 ]

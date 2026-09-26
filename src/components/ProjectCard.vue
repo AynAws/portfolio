@@ -20,9 +20,9 @@ defineProps(['project'])
                 </span>
             </div>
 
-            <div class="glex gap-4 mt-4 text-sm font-medium">
-                <a href="project.liveUrl" class="text-blue-600 hover:underLine">Live Demo</a>
-                <a href="project.repoUrl" class="text-blue-600 hover:underLine">Repository</a>
+            <div class="flex gap-4 mt-4 text-sm font-medium">
+                <a :href="project.liveUrl" class="text-blue-600 hover:underline">Live Demo</a>
+                <a :href="project.repoUrl" class="text-blue-600 hover:underline">Repository</a>
             </div>
         </div>
     </div>

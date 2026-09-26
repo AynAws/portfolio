@@ -12,11 +12,6 @@ import projectsData from './data/projects.json'
     <ProjectGrid :projects="projectsData" />
   </section>
 
-  <section id="about" class="py-16 px-4 max-w-5xl mx-auto">
-    <h2 class="text-2xl font-bold text-gray-900 mb-8 text-center">Projects</h2>
-    <ProjectGrid :projects="projectsData" />
-  </section>
-
   <section id="about" class="py-16 px-4 max-w-2xl mx-auto text-center">
     <h2 class="text-2xl font-bold text-gray-900 mb-4">About</h2>
     <p class="text-gray-600">
