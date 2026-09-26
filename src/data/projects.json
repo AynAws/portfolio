@@ -1,7 +1,26 @@
 [
-    {
-        "name": "",
-        "desc": "",
-        "link": ""
-    }
+  {
+    "title": "Cosmere Reading Tracker",
+    "desc": "A dependency-aware reading order tracker for Brandon Sanderson's Cosmere, with transitive prerequisite resolution and multiple curated reading orders.",
+    "tags": ["Vue", "Vite", "JavaScript"],
+    "liveUrl": "https://aynaws.github.io/cosmere-reading-tracker/",
+    "repoUrl": "https://github.com/AynAws/cosmere-reading-tracker",
+    "image": "/assets/cosmere-screenshot.png"
+  },
+  {
+    "title": "Real-time fictional calendar",
+    "desc": "A personal grade tracker with term filtering, GPA calculation, and projected grade ranges.",
+    "tags": ["Vue", "Bootstrap", "JavaScript"],
+    "liveUrl": "https://aynaws.github.io/njit-grade-calculator/",
+    "repoUrl": "https://github.com/AynAws/njit-grade-calculator",
+    "image": "/assets/grades-screenshot.png"
+  },
+  {
+    "title": "Anime Higher/Lower",
+    "desc": "A stat-guessing game built around anime data — guess whether the next entry is higher or lower.",
+    "tags": ["JavaScript", "API"],
+    "liveUrl": "https://aynaws.github.io/anime-higher-lower/",
+    "repoUrl": "https://github.com/AynAws/anime-higher-lower",
+    "image": "/assets/anime-screenshot.png"
+  }
 ]
