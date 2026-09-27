@@ -46,3 +46,7 @@
       radial-gradient(circle at top right, white 0%, transparent 55%),
       linear-gradient(to bottom, var(--color-cream) 0%, var(--color-gray-50) 100%)
 }
+
+html {
+    scroll-behavior: smooth;
+}

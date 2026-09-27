@@ -12,8 +12,8 @@
     "title": "Eberron Calendar",
     "desc": "A real-time calendar based off of Eberron's fictional calendar.",
     "tags": ["JavaScript"],
-    "liveUrl": "https://aynaws.github.io/njit-grade-calculator/",
-    "repoUrl": "https://github.com/AynAws/njit-grade-calculator",
+    "liveUrl": "https://aynaws.github.io/Eberron-Random-Char-Gen/calendar/calendar.html",
+    "repoUrl": "https://github.com/AynAws/Eberron-Random-Char-Gen",
     "image": "/src/assets/calendar-screenshot.png",
     "alt": ""
   },
