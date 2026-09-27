@@ -5,7 +5,7 @@
     "tags": ["Vue", "Vite", "JavaScript"],
     "liveUrl": "https://aynaws.github.io/cosmere-reading-tracker/",
     "repoUrl": "https://github.com/AynAws/cosmere-reading-tracker",
-    "image": "/src/assets/cosmere-screenshot.png",
+    "image": "/assets/projects/cosmere-screenshot.png",
     "alt": ""
   },
   {
@@ -14,7 +14,7 @@
     "tags": ["JavaScript"],
     "liveUrl": "https://aynaws.github.io/Eberron-Random-Char-Gen/calendar/calendar.html",
     "repoUrl": "https://github.com/AynAws/Eberron-Random-Char-Gen",
-    "image": "/src/assets/calendar-screenshot.png",
+    "image": "/assets/projects/calendar-screenshot.png",
     "alt": ""
   },
   {
@@ -23,7 +23,7 @@
     "tags": ["JavaScript", "API"],
     "liveUrl": "https://aynaws.github.io/anime-higher-lower/",
     "repoUrl": "https://github.com/AynAws/anime-higher-lower",
-    "image": "/src/assets/anime-screenshot.png",
+    "image": "/assets/projects/anime-screenshot.png",
     "alt": ""
   }
 ]
