@@ -12,7 +12,7 @@ defineProps(['project'])
             <h3 class="text-lg font-bold">{{ project.title }}</h3>
             <p class="text-sm mt-2 flex-1 text-gray-600">{{ project.desc }}</p>
 
-            <div class="flex flex-wrap mt-2 mt-4">
+            <div class="flex flex-wrap mt-4">
                 <span
                   v-for="tag in project.tags"
                   :key="tag"
