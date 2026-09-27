@@ -5,8 +5,8 @@
     "tags": ["Vue", "Vite", "JavaScript"],
     "liveUrl": "https://aynaws.github.io/cosmere-reading-tracker/",
     "repoUrl": "https://github.com/AynAws/cosmere-reading-tracker",
-    "image": "/assets/projects/cosmere-screenshot.png",
-    "alt": ""
+    "image": "assets/projects/cosmere-screenshot.png",
+    "alt": "Image of Cosmere Reading Tracker"
   },
   {
     "title": "Eberron Calendar",
@@ -14,8 +14,8 @@
     "tags": ["JavaScript"],
     "liveUrl": "https://aynaws.github.io/Eberron-Random-Char-Gen/calendar/calendar.html",
     "repoUrl": "https://github.com/AynAws/Eberron-Random-Char-Gen",
-    "image": "/assets/projects/calendar-screenshot.png",
-    "alt": ""
+    "image": "assets/projects/calendar-screenshot.png",
+    "alt": "Image of Eberron Calendar"
   },
   {
     "title": "Anime Higher/Lower",
@@ -23,7 +23,7 @@
     "tags": ["JavaScript", "API"],
     "liveUrl": "https://aynaws.github.io/anime-higher-lower/",
     "repoUrl": "https://github.com/AynAws/anime-higher-lower",
-    "image": "/assets/projects/anime-screenshot.png",
-    "alt": ""
+    "image": "assets/projects/anime-screenshot.png",
+    "alt": "Image of Anime Higher/Lower"
   }
 ]
